@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoatDealer\n"
+"POT-Creation-Date: 2016-04-22 17:07-0000\n"
+"PO-Revision-Date: 2016-04-22 17:19-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: F:\\wordpress\\boatdealer\\trunk\n"
+
+#: F:\wordpress\boatdealer\trunk/includes/help/help.php:35
+msgid "Overview"
+msgstr "Visao Geral"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:15
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Nao use caracteres especiais aqui (\"$\" \",\" \".\"), o plugin irà auto "
+"formatar os numeros."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:22
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:26
+msgid "Make"
+msgstr "Fabricante"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:30
+msgid "Mark to show up at Featured Widget."
+msgstr "Selecione para aparecer no Widget Destaques."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:38
+msgid "The year of the model. Only numbers, no point, no comma."
+msgstr "Ano do modelo. Use somente numeros."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:45
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "Potencia do Motor. Use apenas numeros."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:54
+msgid "The amount of miles on this boat. Only numbers, no point, no comma."
+msgstr "Kilometragem/Milhas/Horas. Use somente numeros."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:69
+msgid "The amount of "
+msgstr "Todal de"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:81
+msgid "Lengh Of Boat in "
+msgstr "Tamanho do Barco"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:81
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:88
+msgid "Only numbers. No point, no comma."
+msgstr "Use somente numeros. Sem pontos ou virgulas."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:88
+msgid "Fuel Capacity in "
+msgstr "Capacidade do reservatorio de combustivel"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:95
+msgid "Passenger Capacity. Only numbers."
+msgstr "Capacidade (passageiros)."
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:102
+msgid "What kind of Boat is this"
+msgstr "Tipo de Barco"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:112
+msgid "Fuel Type."
+msgstr "Tipo de Combustivel"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:121
+msgid "Engine eg: Johnson"
+msgstr "Motor exemplo: Johnson"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:128
+msgid "Color of the Interior"
+msgstr "Interior Cor"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/meta-box.php:135
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:62
+msgid "Interior Material"
+msgstr "Material Interno"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:57
+msgid "Parent Model"
+msgstr "Modelo do parente"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:58
+msgid "Parent Model:"
+msgstr "Modelo - Parente:"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:59
+msgid "Edit Model"
+msgstr "Editar Modelo"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:60
+msgid "Update Model"
+msgstr "Atualizar Modelos"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:61
+msgid "Add New Model"
+msgstr "Adicionar Novo Modelo"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:62
+msgid "New Model"
+msgstr "Novo Modelo"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:63
+msgid "Separate Model with commas"
+msgstr "Separe os Modelos com virgulas"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:64
+msgid "Add or Remove Model"
+msgstr "Adicione ou remova Modelos"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:65
+msgid "Choose from the most used Model"
+msgstr "Escolha entre os modelos mais frequentes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:86
+msgid "Parent Features"
+msgstr "Parente - Detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:87
+msgid "Parent Features:"
+msgstr "Detalhes - Parente"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:88
+msgid "Edit Features"
+msgstr "Editar Detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:89
+msgid "Update Features"
+msgstr "Atualizar Detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:90
+msgid "Add New Features"
+msgstr "Adicione Novos Detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:91
+msgid "New Features"
+msgstr "Novos Detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:92
+msgid "Separate Features with commas"
+msgstr "Separe os detahes com virgulas"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:93
+msgid "Add or Remove Features"
+msgstr "Adicione ou remova detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:94
+msgid "Choose from the most used Features"
+msgstr "Selecione entre os detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/post-type/post-functions.php:189
+msgid "Call For Price"
+msgstr "Chame-nos sobre o preço"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:13
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:152
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:272
+msgid "Search"
+msgstr "Pesquisar"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:102
+msgid "Price"
+msgstr "Preço"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:104
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:121
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:143
+msgid "Any"
+msgstr "Qualquer"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:119
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:124
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom.php:117
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom2.php:155
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:99
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:205
+msgid "Year"
+msgstr "Ano"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:141
+msgid "New/Used"
+msgstr "Novo/Usado"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:144
+msgid "New"
+msgstr "Novo"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:145
+msgid "Used"
+msgstr "Usado"
+
+#: F:\wordpress\boatdealer\trunk/includes/search/search-function.php:146
+msgid "Damaged"
+msgstr "Danificado"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:11
+msgid "Features"
+msgstr "Detalhes"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:15
+msgid "Engine"
+msgstr "Motor"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:21
+msgid "Boat Type"
+msgstr "Tipo de bote"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:31
+msgid "Fuel Type"
+msgstr "Tipo Combustivel"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:36
+msgid "Fuel Capacity"
+msgstr "Capacidade do reservatorio de Combustivel "
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:42
+msgid "Lenght"
+msgstr "Tamanho"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:49
+msgid "Passenger Capacity"
+msgstr "Capacidade passageiros"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:56
+msgid "Interior Color"
+msgstr "Cor Interna"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:68
+msgid "Options"
+msgstr "Opçoes"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:100
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom.php:114
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom2.php:152
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:96
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:202
+msgid "Call for Price"
+msgstr "Chame-nos sobre o preço"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:116
+msgid "Model"
+msgstr "Modelo"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-functions.php:126
+msgid "Cond"
+msgstr "Cond"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom.php:148
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom2.php:187
+msgid "Back"
+msgstr "Voltar"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom.php:149
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom2.php:188
+msgid "Onward"
+msgstr "Avante"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom.php:163
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-showroom2.php:209
+msgid "Not Found !"
+msgstr "Nao enconrado!"
+
+#: F:\wordpress\boatdealer\trunk/includes/templates/template-single.php:40
+msgid "Contact Us"
+msgstr "Contactar"
+
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:21
+msgid "A list of Recent Boats"
+msgstr "Lista dos Recentes Barcos"
+
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:57
+msgid "New Arrivals"
+msgstr "Novos Barcos"
+
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:132
+msgid "A list of Featured Boats"
+msgstr "Lista dos Barcos em Destaque"
+
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:163
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:117
+msgid "Featured Boats"
+msgstr "Barcos em Destaque"
+
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:241
+msgid "Search Boats"
+msgstr "Pesquisar Barcos"
+
+#: F:\wordpress\boatdealer\trunk/includes/widgets/widgets.php:257
+msgid "Title"
+msgstr "Titulo"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:15
+msgid ""
+"Thanks for install Boat Dealer Plugin. The easiest way to manage, list and "
+"sell your boats online."
+msgstr ""
+"Obrigado por instalar Boat Dealer Plugin. A forma mais facil de administrar, "
+"listar e vender barcos on line."
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:18
+msgid "Follow this steps"
+msgstr "Siga estes passos"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:22
+msgid " Go to Boat Settings tab and choose your currency, metric system etc..."
+msgstr "Escolha sua moeda e sistema metrico, etc..."
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:27
+msgid ""
+"Go to your Pages and chose one (or more) page where you want show the boats. "
+msgstr ""
+"Và atè suas paginas e escolha uma (ou mais) onde deseja que seu show room de "
+"barcos seja visivel. "
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:30
+msgid "Paste this shortcode there"
+msgstr "Coloque la este shortcode"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:33
+msgid "Click Update to Save"
+msgstr "Clique atualizar e salvar"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:38
+msgid "Go to Model and Add some models"
+msgstr "Và atè Model e adicione alguns modelos"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:44
+msgid "For example "
+msgstr "Por exemplo"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:47
+msgid "Sport"
+msgstr "Esporte"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:50
+msgid "Fishing"
+msgstr "Pesca"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:53
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:72
+msgid "and so on..."
+msgstr "etc..."
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:57
+msgid "Go to Features and Add some"
+msgstr "Và até Features e adicione um"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:63
+msgid "For example"
+msgstr "Por exemplo"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:66
+msgid "Cabin"
+msgstr "Cabine"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:69
+msgid "Bathroom"
+msgstr "Banheiro"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:78
+msgid "Go to Boats for Sale and Choose Add New"
+msgstr "Và até Boats for Sale e escolha adicionar um"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:84
+msgid "Fill Out all info"
+msgstr "Preencha todas as informaçoes"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:87
+msgid "Add one Featured Image"
+msgstr "Adicione uma Featured Imagem"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:93
+msgid "Load images "
+msgstr "Carregar Imagens"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:96
+msgid ""
+"Just create one wordpress gallery. Our plugin will create automatically one "
+"nice slider gallery.\n"
+"For details how to create a wordpress gallery, check the wordpress site."
+msgstr ""
+"Apenas crie uma nova galeria wordpress. Nosso sistema automaticamente a "
+"transformarà num Slider."
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:103
+msgid "Click Publish to Save."
+msgstr "Clique Publicar e salvar."
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:110
+msgid "We have 3 dedicated Widgets"
+msgstr "Temos 3 widgets exclusivos"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:114
+msgid "  Recent Boats"
+msgstr " Recente Post"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:120
+msgid "Boats Search"
+msgstr "Pesquisar Boats"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:124
+msgid "To install, just go to "
+msgstr "Para instalar, và até "
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:128
+msgid "and install them"
+msgstr "e instale "
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:134
+msgid "That's all. I hope you enjoy it "
+msgstr "Està pronto. Espero que seja util a Voce"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:147
+msgid "Choose your currency, metric system and so on."
+msgstr "Escolha sua moeda,  sistema metrico etc."
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:154
+msgid "Currency"
+msgstr "Moeda"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:169
+msgid "Miles - Km - Hours"
+msgstr "Milhas -  Kms -  Horas"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:171
+msgid "Miles"
+msgstr "Milhas"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:172
+msgid "Kms"
+msgstr "Kms"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:173
+msgid "Hours"
+msgstr "Horas"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:181
+msgid "Liters - Gallons"
+msgstr "Litros - Galoes"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:183
+msgid "Liters"
+msgstr "Litros"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:184
+msgid "Gallons"
+msgstr "Galoes"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:192
+msgid "Feet - Meters"
+msgstr "Pes - Metros"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:194
+msgid "Feet"
+msgstr "Pes"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:195
+msgid "Meters"
+msgstr "Metros"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:202
+msgid "How many boats would you like to display per page?"
+msgstr "Quantos botes deseja exibir por pagina?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:217
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Remover o Sidebar da Pagina de Resultados da Pesquisa"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:228
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Substituir a galeria original do WordPress com Galeria  Flexslider"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:240
+msgid ""
+"Fill out your contact page URL if you want a Contact Us button at bottom of "
+"the individual boat page"
+msgstr ""
+"Preencha a URL da tua pagina de contactos se deseja seja acrescentado um "
+"botao na pagina individual dos botes"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:252
+msgid "Where is the updated OnLine Manual?"
+msgstr "Onde encontro o manual on line atualizado?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:258
+msgid "Where is the complete updated OnLine FAQ page?"
+msgstr "Onde encontro o FAQ on line atualizado?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:263
+msgid "Where is the demo online?"
+msgstr "Onde encontro demo on line atualizado?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:270
+msgid "Where is the complete online updated StartUp Guide?"
+msgstr "Onde encontro o Start Up guia on line atualizado?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:275
+msgid "Where is the donation page?"
+msgstr "Onde encontro a pagina de doaçao?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:281
+msgid "How can i get support?"
+msgstr "Onde posso obter suporte tecnico?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:286
+msgid "Where is the language file?"
+msgstr "Onde està o arquivo de lingua?"
+
+#: F:\wordpress\boatdealer\trunk/settings/options/plugin_options_tabbed.php:288
+msgid ""
+"We have an english language file ready to translate to another language."
+msgstr ""
+"Nos temos o arquivo em Ingles pronto para traduzir para outra linguagem."
+
+#~ msgid "Could not load the localization file: "
+#~ msgstr "Nao foi possivel localizar o arquivo de lingua:"
+
+#~ msgid "Add Featured Boats"
+#~ msgstr "Adicionar barcos em destaque "
+
+#~ msgid "Passenger Capacity."
+#~ msgstr "Capacidade passageiros"
+
+#, fuzzy
+#~ msgid "Engine Drive"
+#~ msgstr "Motor"
+
+#~ msgid "Make."
+#~ msgstr "Fabricante"
+
+#~ msgid "Next Page"
+#~ msgstr "Proxima Pagina"
+
+#~ msgid "Previous Page"
+#~ msgstr "Pagina Anterior"
