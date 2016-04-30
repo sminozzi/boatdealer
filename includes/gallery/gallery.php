@@ -12,7 +12,8 @@ add_shortcode('gallery', 'bd_parse_gallery_shortcode');
 
 function bd_parse_gallery_shortcode($atts) {
  
-    wp_register_script( 'flexslider', get_bloginfo('wpurl').'/wp-content/plugins/boatdealer/includes/gallery/js/jquery.flexslider-min.js', array('jquery'), null, false);
+    wp_register_script( 'flexslider', BDURL.'includes/gallery/js/jquery.flexslider-min.js', array('jquery'), null, false);
+
  	wp_enqueue_script('flexslider');
 
     global $post;
