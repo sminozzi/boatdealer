@@ -119,11 +119,11 @@ if($bd_overwrite_gallery == 'yes')
 add_action( 'wp_enqueue_scripts', 'bd_add_stylesheet' );
 
     function bd_add_stylesheet() {
-      wp_enqueue_style( 'show-room' , get_bloginfo('wpurl').'/wp-content/plugins/boatdealer/includes/templates/show-room.css');
-      wp_enqueue_style( 'pluginStyleGeneral' , get_bloginfo('wpurl').'/wp-content/plugins/boatdealer/includes/templates/template-style.css');
-      wp_enqueue_style( 'pluginStyleSearch2' , get_bloginfo('wpurl').'/wp-content/plugins/boatdealer/includes/search/style-search-box.css');
-      wp_enqueue_style( 'pluginStyleSearch3' , get_bloginfo('wpurl').'/wp-content/plugins/boatdealer/includes/widgets/style-search-widget.css');
-      wp_enqueue_style( 'pluginStyleGeneral4' , get_bloginfo('wpurl').'/wp-content/plugins/boatdealer/includes/gallery/css/flexslider.css');
+     wp_enqueue_style( 'show-room' , BDURL.'includes/templates/show-room.css');
+      wp_enqueue_style( 'pluginStyleGeneral' , BDURL.'includes/templates/template-style.css');
+      wp_enqueue_style( 'pluginStyleSearch2' , BDURL.'includes/search/style-search-box.css');
+      wp_enqueue_style( 'pluginStyleSearch3' , BDURL.'includes/widgets/style-search-widget.css');
+      wp_enqueue_style( 'pluginStyleGeneral4' , BDURL.'includes/gallery/css/flexslider.css');
     } 
     
 
