@@ -1,4 +1,4 @@
-=== Boat Dealer, Boat Seller, Yatch Dealer, PWC ===
+# WordPress Boat Dealer, Boat Seller, Yatch Dealer, PWC Plugin ===
 Contributors: sminozzi
 Tags: Boat Dealer, Boat Seller, Boat Plugin, PWC, Yacht Dealer
 Donate link: http://boatdealerplugin.com/donate/
@@ -10,7 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Boat Dealer, Boat Seller, Yatch Dealer, Yatch Seller, PWC Dealer, Jetski, Plugin. Create Your Own Fields and Search Bar.
+## Boat Dealer, Boat Seller, Yatch Dealer, Yatch Seller, PWC Dealer, Jetski, Plugin. Create Your Own Fields and Search Bar. ##
 
 == Description ==
 **BOAT DEALER**
